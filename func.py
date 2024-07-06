@@ -1,1 +1,1 @@
-print(4*4*5)
+print("Palabritas")
